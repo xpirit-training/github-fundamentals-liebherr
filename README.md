@@ -1,6 +1,6 @@
 # GitHub Fundamentals
 
-Repository for the `GitHub Fundamentals` training.
+Repository for the `GitHub Fundamentals` training (Liebherr).
 
 ## 👉 Objectives
 
