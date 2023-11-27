@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our slide deck!"
+layout: slidevontill
+title: "Welcome to MY slide deck!"
 ---
 
 Greetings from [username]!
