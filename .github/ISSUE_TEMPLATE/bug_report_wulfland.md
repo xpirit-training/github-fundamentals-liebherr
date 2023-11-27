@@ -1,9 +1,9 @@
 ---
-name: 🐞 Bug report wulfland
+name: "\U0001F41E Bug report wulfland"
 about: Create a report to help us improve
-title: '[Bug]:'
-labels: 'bug'
-assignees: 'wulfland'
+title: "[Bug]:"
+labels: bug
+assignees: ''
 
 ---
 
